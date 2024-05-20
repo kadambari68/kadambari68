@@ -47,5 +47,5 @@ Hi, I'm Kadambati Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGS2AgRLgYbCiPFfpcI0QkIem5iCWSVYADnZ9mrgJOhg&s"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadambari68&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadambari68&layout=compact)
 ![Kadambari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadambari68&show_icons=true&theme=transparent)
