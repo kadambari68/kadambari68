@@ -15,7 +15,7 @@
 
 <br />
 
-Hi,I'm Kadambati Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Hackathons and Problem Solving.❤✌
+Hi, I'm Kadambati Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Hackathons and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -47,6 +47,6 @@ Hi,I'm Kadambati Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://toppng.com/uploads/preview/html5-js-css3-logo-png-11536003913vd86ju9pc1.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGS2AgRLgYbCiPFfpcI0QkIem5iCWSVYADnZ9mrgJOhg&s"></code>
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=kadambari68&show_icons=true&hide_border=true)
+![Kadambari's github stats](https://github-readme-stats.vercel.app/api?username=kadambari68&show_icons=true&hide_border=true)
