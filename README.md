@@ -29,8 +29,6 @@ Hi, I'm Kadambati Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from 
 - 👯 Part of Open Source Community.
 - ⚡ Worked part-time  as a junior developer at Synchronize.
 - 📝[Portfolio](https://kadambari68.github.io/Personal-Portfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
-
 
 
 **Community**
@@ -49,4 +47,4 @@ Hi, I'm Kadambati Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGS2AgRLgYbCiPFfpcI0QkIem5iCWSVYADnZ9mrgJOhg&s"></code>
 
-![Kadambari's github stats](https://github-readme-stats.vercel.app/api?username=kadambari68&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
