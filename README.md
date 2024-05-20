@@ -1,30 +1,21 @@
-# me
 
-### Hello World 👋 It's [Saket!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's [Kadambari!]([https://kadambari68.github.io/Personal-Portfolio/])
 
 <br/>
 
 
-<a href="https://twitter.com/sakigo_09">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/KADAMBARI_68">
+<img align="left" alt="Kadambari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/saket-prag-31b972157/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/kadambari-purohit-8604ba243/">
+<img align="left" alt="Kadambari" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@saketprag322">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/sakigo_09/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+
 <br />
 
 <br />
 
-Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Kadambati Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Hackathons and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -32,23 +23,22 @@ Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at CodeCrunch.
-- 🌱 I’m currently learning Angular.
-- 👯 Part of Developer Community.
+- 🔭 I’m currently Intern at Celebal.
+- 🌱 I’m currently learning AWS.
+- 👯 Part of Open Source Community.
+- 📫 Previously intern at IIT Roorkee(Virtual Labs)
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
-- 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
+- 📝[Portfolio](https://kadambari68.github.io/Personal-Portfolio/)
 - ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
 
 
 
 **Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
+
+- Coddess.Cafe
+- DSA Community 
 - Girlscript Foundation
-- Coding Ninja
 
 **Languages and Tools:**
 
@@ -59,4 +49,4 @@ Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
+![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=kadambari68&show_icons=true&hide_border=true)
