@@ -18,7 +18,7 @@
 Hi, I'm Kadambati Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Hackathons and Problem Solving.❤✌
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width=320px />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width=420px />
 
 
 **Talking about Personal Stuff:**
