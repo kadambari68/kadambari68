@@ -49,4 +49,4 @@ Hi, I'm Kadambari Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from 
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGS2AgRLgYbCiPFfpcI0QkIem5iCWSVYADnZ9mrgJOhg&s"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadambari68&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Kadambari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadambari68&show_icons=true&theme=transparent)
+
