@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm Kadambati Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Hackathons and Problem Solving.❤✌
+Hi, I'm Kadambari Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Hackathons and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height=340px width=420px />
@@ -23,7 +23,8 @@ Hi, I'm Kadambati Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from 
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently an Intern at Celebal.
+-  I'm an ERP Analyst at Cultivator Natural Products
+- 🔭 I was an Intern at Celebal.
 - 📫 Previously intern at IIT Roorkee(Virtual Labs)
 - 🌱 I’m currently learning AWS.
 - 👯 Part of Open Source Community.
