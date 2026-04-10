@@ -1,52 +1,59 @@
 
-### Hello World 👋 It's [Kadambari!]([https://kadambari68.github.io/Personal-Portfolio/])
+### Hello World 👋 It's [Kadambari!]([https://kadambari68.github.io/Personal-Portfolio/]) <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height=730px width=545px />
 
-<br/>
+**Planning & Implementation Executive · ERP Analyst · Systems Builder · AI automation Engineer @ Cultivator Natural Products**
 
+I design, build, and deploy internal systems that solve real operational problems —
+warehouse management, task automation, and ERP configuration.
+I own the full lifecycle: requirement gathering → architecture → build → UAT → iteration.
 
-<a href="https://twitter.com/KADAMBARI_68">
-<img align="left" alt="Kadambari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kadambari-purohit-8604ba243/">
-<img align="left" alt="Kadambari" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<br />
-
-<br />
-
-Hi, I'm Kadambari Purohit🙌, a Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Hackathons and Problem Solving.❤✌
+ **Previously:**
+- Azure Intern @ Celebal Technologies (2024)
+- Web Developer Intern @ IIT Roorkee — Virtual Labs (2023)
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height=340px width=420px />
+------
 
 
-**Talking about Personal Stuff:**
 
--  I'm an ERP Analyst at Cultivator Natural Products
-- 🔭 I was an Intern at Celebal.
-- 📫 Previously intern at IIT Roorkee(Virtual Labs)
-- 🌱 I’m currently learning AWS.
-- 👯 Part of Open Source Community.
-- ⚡ Worked part-time  as a junior developer at Synchronize.
-- 📝[Portfolio](https://kadambari68.github.io/Personal-Portfolio/)
+**Production Systems @ Cultivator**
+
+> All systems below are live, used daily by real teams. Sole technical owner of 6+ production systems across manufacturing operations
 
 
-**Community**
+| System | What it does | Stack |
+|---|---|---|
+|  **WMS** | Rack/bin inventory, low-stock alerts, RBAC, audit trails, manager dashboards | GAS · Sheets · JS |
+|  **TaskFlow** | Cross-dept task routing, HOD escalation, Kanban, SLA tracking, 5 dashboards — ~30 users | GAS · Sheets · JS |
+|  **Line Clearance** | Replaced manual Word templates — dynamic doc generation with pre-filled checklists | VBA · Excel |
+|  **Asset Management** | Asset lifecycle tracking for QA and accounts, regulatory traceability | GAS · Sites |
+|  **Expiry Date/Product Label Tracker** | Label version history, Certificate erpiry reminders, reduced errors for Regulatory dept | GAS · Sheets |
 
-- Codess.Cafe
-- DSA Community 
-- Girlscript Foundation
+**Notable contributions**
 
-**Languages and Tools:**
+- Caught a **critical CRM security defect** during UAT — demo instance exposing 2014 production data in live sessions. Reported, reproduced, coordinated fix with TCS dev team.
+- Evaluated **10+ enterprise platforms** (WMS, eQMS, CRM, R&D) — prepared vendor comparison matrices presented to leadership for procurement decisions.
+- Updated **customer portal integration architecture** to use cloud storage (S3/GCP ~$0.023/GB) instead of SQL — ~50% cost reduction, zero maintenance.
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://toppng.com/uploads/preview/html5-js-css3-logo-png-11536003913vd86ju9pc1.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGS2AgRLgYbCiPFfpcI0QkIem5iCWSVYADnZ9mrgJOhg&s"></code>
+-----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadambari68&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+**🛠️ Tech stack**
+
+![GAS](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TCS iON](https://img.shields.io/badge/TCS_iON-ERP-0078D4?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+
+**🎓 Education & certifications**
+
+- Jodhpur Institute of Engineering and Technology (2021–2025)
+- B.Tech CSE · GPA 9.59 · Semester Topper (10.00 & 9.83)
+- NPTEL — Python for Data Science (Elite)
 
