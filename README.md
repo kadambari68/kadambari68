@@ -24,10 +24,8 @@ I own the full lifecycle: requirement gathering → architecture → build → U
 | System | What it does | Stack |
 |---|---|---|
 |  **WMS** | Rack/bin inventory, low-stock alerts, RBAC, audit trails, manager dashboards | GAS · Sheets · JS |
-|  **TaskFlow** | Cross-dept task routing, HOD escalation, Kanban, SLA tracking, 5 dashboards — ~30 users | GAS · Sheets · JS |
-|  **Line Clearance** | Replaced manual Word templates — dynamic doc generation with pre-filled checklists | VBA · Excel |
-|  **Asset Management** | Asset lifecycle tracking for QA and accounts, regulatory traceability | GAS · Sites |
-|  **Expiry Date/Product Label Tracker** | Label version history, Certificate erpiry reminders, reduced errors for Regulatory dept | GAS · Sheets |
+|  **Gmail Follow-up Automation** | Sales automation tool with per-step cadence, thread-anchored replies, auto-stop on reply, sidebar UI, and Gmail Add-on panel — built after HubSpot Sequences confirmed unable to meet threading requirement. | GAS · Gmail API · Html |
+|  **Expiry Date/Product Label Tracker** | Label version history, Certificate expiry reminders, reduced errors for Regulatory dept | GAS · Sheets |
 
 **Notable contributions**
 
